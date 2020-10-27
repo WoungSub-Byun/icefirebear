@@ -5,7 +5,7 @@ Hi, I'm woungsub enjoying challenge and experiences.
 I want to become a Server/AI developer who develop services that everyone in the world can convieniently use.
 
 
-🌱 I’m currently learning ... Python, Django REST Framework, ML/DL
+🌱 I’m currently learning ... Python, Back-end/Server, ML/DL
 
 ## Interest
  - ⛅ Back-end technologies such as Django, Nodejs, Koa etc.
