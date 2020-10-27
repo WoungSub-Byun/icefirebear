@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**icefirebear/icefirebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Byun WoungSub
+Hi, I'm woungsub enjoying challenge and experiences.
+I want to become a Server/AI developer who develop services that everyone in the world can convieniently use.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning ... Python, Django REST Framework, ML/DL
+
+## Interest
+ - ⛅ Back-end technologies such as Django, Nodejs, Koa etc.
+ - 🤖 Machine learning and Deep Learning (Python)
+ - ☕ Developing at the cafe and drinking coffee (I like caffe latte most!)
+ - 😁 Interacing with people (talking, playing, exercising etc.. any other all)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woungsub1234@gmail.com)](mailto:woungsub1234@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Study-1bc3f8c8fa23453b9179b05341dad986)](https://www.notion.so/Study-1bc3f8c8fa23453b9179b05341dad986)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=icefirebear)](https://github.com/anuraghazra/github-readme-stats)
