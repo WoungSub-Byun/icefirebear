@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-### Byun WoungSub
-Hi, I'm woungsub enjoying challenge and experiences.
+### Bruce (Byun WoungSub)
+---
+Hi, I'm Bruce enjoying challenge and experiences.
 I want to become a Server/AI developer who develop services that everyone in the world can convieniently use.
 
 
