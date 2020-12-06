@@ -9,7 +9,7 @@ I want to become a **Server/AI developer** who develop services that **everyone 
 🌱 I’m currently learning ... ***Python, Back-end/Server, ML/DL***
 
 ## Interest
- - ⛅ Back-end technologies such as Django, Nodejs, Koa etc.
+ - ⛅ Back-end technologies such as Flask, Django, Nodejs,  etc.
  - 🤖 Machine learning and Deep Learning (Python)
  - ☕ Developing at the cafe and drinking **coffee** (I like caffe latte most!)
  - 😁 **Interacing with people** (talking, playing, exercising etc.. any other all)
