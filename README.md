@@ -7,7 +7,7 @@ I want to become a **Server/AI developer** who develop services that **everyone 
 
 
 🌱 I’m currently learning ... ***Python, Back-end/Server***
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficefirebear&count_bg=%233DC8AF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Interest
  - ⛅ Back-end technologies such as Flask, Django, Nodejs, Cloud(Docker)  etc.
  - 🤖 Machine learning and Deep Learning (Python)
