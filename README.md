@@ -3,14 +3,13 @@
 ### Bruce (Byun WoungSub)
 ---
 Hi, I'm Bruce enjoying **challenge and experiences**.
-I want to become a **Server/AI developer** who develop services that **everyone in the world can convieniently use**.
+I want to become a **DevOps Engineer** who develop services that **everyone in the world can convieniently use**.
 
 
-🌱 I’m currently learning ... ***Python, Back-end/Server***
+🌱 I’m currently learning ... ***Back-end/Cloud Computing***
 
 ## Interest
  - ⛅ Back-end technologies such as Flask, Django, Nodejs, Cloud(Docker)  etc.
- - 🤖 Machine learning and Deep Learning (Python)
  - ☕ Developing at the cafe and drinking **coffee** (I like caffe latte most!)
  - 😁 **Interacing with people** (talking, playing, exercising etc.. any other all)
 
