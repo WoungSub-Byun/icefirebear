@@ -10,7 +10,7 @@ I want to become a **DevOps Engineer** who develop services that **everyone in t
 
 ## Interest
  - ⛅ Back-end technologies such as Flask, Django, Nodejs, Cloud(Docker)  etc.
- - ☕ Developing at the cafe and drinking **coffee** (I like caffe latte most!)
+ - ☕ Developing at the cafe and drinking **coffee**
  - 😁 **Interacing with people** (talking, playing, exercising etc.. any other all)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woungsub1234@gmail.com)](mailto:woungsub1234@gmail.com)
