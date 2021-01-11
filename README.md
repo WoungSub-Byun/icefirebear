@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ###  변웅섭 (Byun WoungSub)
+###  변웅섭 (Byun WoungSub)
 ---
 Hi, I'm Bruce enjoying **challenge and experiences**.
 I want to become a **DevOps Engineer** who develop services that **everyone in the world can convieniently use**.
