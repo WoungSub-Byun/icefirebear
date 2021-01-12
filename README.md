@@ -9,7 +9,7 @@ I want to become a **Software Engineer** who develop services that **everyone in
 🌱 I’m currently learning ... ***Back-end/Cloud Computing***
 
 ## Interest
- - ⛅ Back-end technologies such as Flask, Django, Nodejs, Cloud(Docker)  etc.
+ - ⛅ Back-end technologies such as Flask, Django, Nodejs, Cloud(AWS, Docker)  etc.
  - ☕ Developing at the cafe and drinking **coffee**
  - 😁 **Interacing with people** (talking, playing, exercising etc.. any other all)
 
