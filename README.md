@@ -20,4 +20,5 @@ I want to become a **Software Engineer** who develop services that **everyone in
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ficefirebear&count_bg=%233DC8AF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=icefirebear&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icefirebear&layout=gradient)](https://github.com/anuraghazra/github-readme-stats)
