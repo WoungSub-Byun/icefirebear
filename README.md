@@ -2,7 +2,8 @@
 
 ###  변웅섭 (Byun WoungSub)
 ---
-Hi, I'm Bruce enjoying **challenge and experiences**.
+🖐 Hi, I'm Bruce enjoying **challenge and experiences**.
+
 🧑 I want to become a **Software Engineer** who develop services that **everyone in the world can convieniently use**.
 
 ---
