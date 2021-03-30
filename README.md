@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Byun WoungSub](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![Byun WoungSub](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Byun WoungSub%20render&fontSize=90)
 ###  변웅섭 (Byun WoungSub)
 ---
 🖐 Hi, I'm 변웅섭 enjoying **challenge and experiences**.
